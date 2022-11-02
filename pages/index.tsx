@@ -59,8 +59,8 @@ export default function Home() {
                     <li className="nav-item">
                         <a data-scroll="" href="#about" className="nav-link">About</a>
                     </li>
-                    <li className="nav-item active">
-                        <a data-scroll="" href="#pricing" className="nav-link active">Pricing</a>
+                    <li className="nav-item">
+                        <a data-scroll="" href="#pricing" className="nav-link">Pricing</a>
                     </li>
                     {/* <li className="nav-item">
                         <a data-scroll="" href="#blog" className="nav-link">Blog</a>
