@@ -2,6 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 // import "../styles/mt.css"
 //import '../styles/globals.css'
 import "../styles/style.css"
+import "../styles/icon.css"
 // import '@fontsource/roboto/300.css';
 // import '@fontsource/roboto/400.css';
 // import '@fontsource/roboto/500.css';
