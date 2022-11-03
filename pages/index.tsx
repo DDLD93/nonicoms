@@ -148,7 +148,7 @@ export default function Home() {
             <div className="row align-items-center">
                 <div className="col-lg-5 order-2 order-lg-1">
                     <div className="features-box mt-5 mt-lg-0">
-                        <h3>Providing Quality &amp Internet Service.</h3>
+                        <h3>Providing Quality &amp; Internet Service.</h3>
                         <p className="text-muted web-desc">Leveraging High speed Internet by creating a stream of reliable 
                         and affordable internet based solutions </p>
                         <ul className="text-muted list-unstyled mt-4 features-item-list">
@@ -185,9 +185,8 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-diamond text-primary"></i>
                             <div className="ms-4">
-                                <h4>Digital Design</h4>
-                                <p className="pt-2 text-muted">Some quick example text to build on the card title and make
-                                    up the bulk of the cards content. Moltin gives platform.</p>
+                                <h4>Fibre Optic Internet</h4>
+                                <p className="pt-2 text-muted">We provide high speed &amp; affordable fibre optic internet to homes and offices.</p>
                             </div>
                         </div>
                     </div>
@@ -197,9 +196,9 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-display2 text-primary"></i>
                             <div className="ms-4">
-                                <h4>Unlimited Colors</h4>
-                                <p className="pt-2 text-muted">Credibly brand standards compliant users without extensible
-                                    services. Anibh euismod tincidunt laoreet Ipsum passage.</p>
+                                <h4>VOIP/VoWiFi/Wi-Fi</h4>
+                                <p className="pt-2 text-muted">Our subscription comes with unlimited free voice &amp; video call within the
+                                NONICOMS network and with minimal cost to calls outside network  .</p>
                             </div>
                         </div>
                     </div>
@@ -209,15 +208,14 @@ export default function Home() {
                         <div className="d-flex">
                             <i className="pe-7s-piggy text-primary"></i>
                             <div className="ms-4">
-                                <h4>Strategy Solutions</h4>
-                                <p className="pt-2 text-muted">Separated they live in Bookmarksgrove right at the coast of
-                                    the Semantics, and large language ocean neary regelia.</p>
+                                <h4>IPTV/Ondemad Content.</h4>
+                                <p className="pt-2 text-muted">With live streaming of HD/4k visual clarity our subscribers can enjoy free and unrestricted access to multiple programmes .</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div className="row">
+            {/* <div className="row">
                 <div className="col-lg-4 mt-4">
                     <div className="services-box">
                         <div className="d-flex">
@@ -293,7 +291,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     </section>
    
@@ -302,9 +300,9 @@ export default function Home() {
         <div className="container">
             <div className="row">
                 <div className="col-lg-12 text-center">
-                    <h2 className="text-white">Build your dream website today</h2>
-                    <p className="pt-3 home-desc mx-auto">But nothing the copy said could convince her and so it didn’t take
-                        long until a few insidious Copy Writers ambushed her.</p>
+                    <h2 className="text-white">Fast internet connection</h2>
+                    <p className="pt-3 home-desc mx-auto">To build fiber optics
+telecommunication infrastructure that gives our customers access to voice, (fixed landlines), data speed and IPTV.Z.</p>
                     <a href="#" className="btn btn-white mt-5 waves-effect waves-light">View Plan &amp; Pricing</a>
                 </div>
             </div>
@@ -318,10 +316,10 @@ export default function Home() {
                     <div className="about-title mx-auto text-center">
                         <h2>A Digital web studio creating stunning &amp; Engaging online
                             Experiences </h2>
-                        <p className="text-muted pt-4">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                            commodo ligula eget dolor.
-                            Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-                            ridiculus mus donec various versions have evolved quam felis.</p>
+                        <p className="text-muted pt-4">Nonicoms is unique in many ways, we are the provider that factor in
+                         our customers needs in everything we do beginning from conceptualization to execution, and we 
+                         have demonstrated that in our price and free products,
+                         it is not difficult to know that we are here to serve our people and make a difference.</p>
                     </div>
                 </div>
             </div>
