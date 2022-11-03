@@ -314,8 +314,7 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
             <div className="row">
                 <div className="col-lg-8 offset-lg-2">
                     <div className="about-title mx-auto text-center">
-                        <h2>A Digital web studio creating stunning &amp; Engaging online
-                            Experiences </h2>
+                        <h2>What makes us different </h2>
                         <p className="text-muted pt-4">Nonicoms is unique in many ways, we are the provider that factor in
                          our customers needs in everything we do beginning from conceptualization to execution, and we 
                          have demonstrated that in our price and free products,
@@ -328,11 +327,11 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                     <div className="team-box text-center">
                         <div className="team-wrapper">
                             <div className="team-member">
-                                {/* <img alt="" src="images/team/img-1.jpg" className="img-fluid rounded"> */}
+                                <img alt="" src="https://media.istockphoto.com/photos/businessman-silhouette-as-avatar-or-default-profile-picture-picture-id476085198" className="img-fluid rounded"/>
                             </div>
                         </div>
-                        <h4 className="team-name">Frank Johnson</h4>
-                        <p className="text-uppercase team-designation">CEO</p>
+                        <h4 className="team-name">Umar Abdullahi </h4>
+                        <p className="text-uppercase team-designation">MD/CEO</p>
                     </div>
                 </div>
 
@@ -340,11 +339,11 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                     <div className="team-box text-center">
                         <div className="team-wrapper">
                             <div className="team-member">
-                                {/* <img alt="" src="images/team/img-2.jpg" className="img-fluid rounded"> */}
+                                <img alt="" src="https://media.istockphoto.com/photos/businessman-silhouette-as-avatar-or-default-profile-picture-picture-id476085198" className="img-fluid rounded"/>
                             </div>
                         </div>
-                        <h4 className="team-name">Elaine Stclair</h4>
-                        <p className="text-uppercase team-designation">Designer</p>
+                        <h4 className="team-name">Sani Alhaji Garba PHD</h4>
+                        <p className="text-uppercase team-designation">General Manager</p>
                     </div>
                 </div>
 
@@ -352,11 +351,11 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                     <div className="team-box text-center">
                         <div className="team-wrapper">
                             <div className="team-member">
-                                {/* <img alt="" src="images/team/img-3.jpg" className="img-fluid rounded"> */}
+                                <img alt="" src="https://media.istockphoto.com/photos/businessman-silhouette-as-avatar-or-default-profile-picture-picture-id476085198" className="img-fluid rounded"/>
                             </div>
                         </div>
-                        <h4 className="team-name">Wanda Arthur</h4>
-                        <p className="text-uppercase team-designation">Developer</p>
+                        <h4 className="team-name">Engr. Bola Adeeyinwo</h4>
+                        <p className="text-uppercase team-designation">Director Network &amp; Engineering</p>
                     </div>
                 </div>
 
@@ -364,11 +363,11 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                     <div className="team-box text-center">
                         <div className="team-wrapper">
                             <div className="team-member">
-                                {/* <img alt="" src="images/team/img-4.jpg" className="img-fluid rounded"> */}
+                                <img alt="" src="https://media.istockphoto.com/photos/businessman-silhouette-as-avatar-or-default-profile-picture-picture-id476085198" className="img-fluid rounded"/>
                             </div>
                         </div>
-                        <h4 className="team-name">Joshua Stemple</h4>
-                        <p className="text-uppercase team-designation">Manager</p>
+                        <h4 className="team-name">Asabe Jibril Alhassan </h4>
+                        <p className="text-uppercase team-designation">Head of Human Resource</p>
                     </div>
                 </div>
 
