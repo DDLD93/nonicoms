@@ -473,6 +473,8 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                 <div className="col-lg-4">
                     <div className="mt-4 pt-4">
                         <p className="mt-4"><span className="h5">Office Address:</span><br/> <span className="text-muted d-block mt-2">Block D1,  No.23 Ndjamena Crescent, <br />  Wuse II,  Abuja</span></p>
+                        <p className="mt-4"><span className="h5">Email Address:</span><br/> <span className="text-muted d-block mt-2">info@nonicoms.ng</span></p>
+
                         <p className="mt-4"><span className="h5">Working Hours:</span><br/> <span className="text-muted d-block mt-2">9:00AM To 6:00PM</span></p>
                     </div>
                 </div>
