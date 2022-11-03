@@ -90,7 +90,7 @@ export default function Home() {
                     <div className="row vertical-content">
                         <div className="col-lg-7 text-white text-start">
                             <div className="mt-4">
-                                <h4 className="home-small-title">NONICOMMS</h4>
+                                <h4 className="home-small-title">NONICOMS</h4>
                                 <h1 className="home-title">Fast internet connection</h1>
                                 <p className="pt-3 home-desc home-subtitle-width-100">State of the art reliable internet for your Home and Office use,
                                 through high speed broadband of more than 100mbps at an unbeatable price that addresses everyday communication challenges in homes and businesses.
@@ -437,75 +437,7 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
         </div>
     </section>
   
-    <section className="section" id="testi">
-        <div className="container">
-            <div className="row">
-                <div className="col-lg-8 offset-lg-2">
-                    <h1 className="section-title text-center">What they have said</h1>
-                    <div className="section-title-border mt-3"></div>
-                    <p className="section-subtitle text-muted text-center font-secondary pt-4">The Big Oxmox advised her not
-                        to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli.
-                    </p>
-                </div>
-            </div>
-            <div className="row mt-5">
-                <div className="col-lg-4">
-                    <div className="testimonial-box mt-4">
-                        <div className="testimonial-decs p-4">
-                            <div className="testi-icon">
-                                <i className="mdi mdi-format-quote-open display-1"></i>
-                            </div>
-                            {/* <img src="images/testimonials/user-1.jpg" alt="" className="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"> */}
-                            <div className="p-1">
-                                <h5 className="text-center text-uppercase mb-3">Dennis Williams - <span className="text-muted text-capitalize">Charleston</span></h5>
-                                <p className="text-muted text-center mb-0">“I feel confident imposing change on myself. It is
-                                    a lot more fun progressing than
-                                    looking back. That is why I ultricies enim at malesuada nibh diam on tortor neaded to
-                                    throw curve balls.” </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <div className="col-lg-4">
-                    <div className="testimonial-box mt-4">
-                        <div className="testimonial-decs p-4">
-                            <div className="testi-icon">
-                                <i className="mdi mdi-format-quote-open display-1"></i>
-                            </div>
-                            {/* <img src="images/testimonials/user-2.jpg" alt="" className="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"> */}
-                            <div className="p-1">
-                                <h5 className="text-center text-uppercase mb-3">Laurie Bell - <span className="text-muted text-capitalize">Worcester</span></h5>
-                                <p className="text-muted text-center mb-0">“Our task must be to free ourselves by widening
-                                    our circle of compassion to embrace
-                                    all living creatures and the whole of quis consectetur nunc sit amet semper justo.
-                                    nature and its beauty.” </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-                <div className="col-lg-4">
-                    <div className="testimonial-box mt-4">
-                        <div className="testimonial-decs p-4">
-                            <div className="testi-icon">
-                                <i className="mdi mdi-format-quote-open display-1"></i>
-                            </div>
-                            {/* <img src="images/testimonials/user-3.jpg" alt="" className="img-fluid mx-auto d-block img-thumbnail rounded-circle mb-4"> */}
-                            <div className="p-1">
-                                <h5 className="text-center text-uppercase mb-3">Howard Kelley - <span className="text-muted text-capitalize">Lynchburg</span></h5>
-                                <p className="text-muted text-center mb-0">“I have learned that people will forget what you
-                                    said, people will forget what you did,
-                                    but people will never forget how donec in efficitur lectus, nec lobortis metus you
-                                    made them feel.” </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
 
     <section className="section section-lg bg-get-start">
         <div className="bg-overlay"></div>
@@ -523,68 +455,7 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
         </div>
     </section>
    
-    <section className="section bg-light" id="blog">
-        <div className="container">
-            <div className="row">
-                <div className="col-lg-8 offset-lg-2">
-                    <h1 className="section-title text-center">Latest News</h1>
-                    <div className="section-title-border mt-3"></div>
-                    <p className="section-subtitle text-muted text-center font-secondary pt-4">Separated they live in
-                        Bookmarksgrove right at the coast of the Semantics, a large language ocean class at a euismod
-                        mus luctus quam.</p>
-                </div>
-            </div>
-
-            <div className="row mt-4">
-                <div className="col-lg-4">
-                    <div className="blog-box mt-4">
-                        <img src="images/blog/img-1.jpg" className="img-fluid rounded" alt=""/>
-                        <div>
-                            <h5 className="mt-4 text-muted">UI &amp; UX Design</h5>
-                            <h4 className="mt-3"><a href="" className="blog-title"> Doing a cross country road trip </a></h4>
-                            <p className="text-muted">She packed her seven versalia, put her initial into the belt and made
-                                herself on the way..</p>
-                            <div className="mt-3">
-                                <a href="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="col-lg-4">
-                    <div className="blog-box mt-4">
-                        <img src="images/blog/img-2.jpg" className="img-fluid rounded" alt=""/>
-                        <div>
-                            <h5 className="mt-4 text-muted">Digital Marketing</h5>
-                            <h4 className="mt-3"><a href="" className="blog-title">New exhibition at our Museum</a></h4>
-                            <p className="text-muted">Pityful a rethoric question ran over her cheek, then she continued her
-                                way.</p>
-                            <div className="mt-3">
-                                <a href="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="col-lg-4">
-                    <div className="blog-box mt-4">
-                        {/* <img src="images/blog/img-3.jpg" className="img-fluid rounded" alt=""> */}
-                        <div>
-                            <h5 className="mt-4 text-muted">Travelling</h5>
-                            <h4 className="mt-3"><a href="" className="blog-title">Why are so many people..</a></h4>
-                            <p className="text-muted">Far far away, behind the word mountains, far from the countries
-                                Vokalia and Consonantia.</p>
-                            <div className="mt-3">
-                                <a href="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
+   
     
     <section className="section" id="contact">
         <div className="container">
@@ -601,9 +472,7 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
             <div className="row">
                 <div className="col-lg-4">
                     <div className="mt-4 pt-4">
-                        <p className="mt-4"><span className="h5">Office Address 1:</span><br/> <span className="text-muted d-block mt-2">4461 Cedar Street Moro, AR 72368</span></p>
-                        <p className="mt-4"><span className="h5">Office Address 2:</span><br/> <span className="text-muted d-block mt-2">2467 Swick Hill Street <br/>New Orleans, LA
-                                70171</span></p>
+                        <p className="mt-4"><span className="h5">Office Address:</span><br/> <span className="text-muted d-block mt-2">Block D1,  No.23 Ndjamena Crescent, <br />  Wuse II,  Abuja</span></p>
                         <p className="mt-4"><span className="h5">Working Hours:</span><br/> <span className="text-muted d-block mt-2">9:00AM To 6:00PM</span></p>
                     </div>
                 </div>
@@ -700,15 +569,13 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
         </div>
     </footer>
 
-    {/* <div className="footer-alt">
+    <div className="footer-alt">
         <div className="container">
             <div className="row">
                 <div className="col-lg-12">
                     <div className="float-start pull-none">
                         <p className="copy-rights text-muted mb-3 mb-sm-0">
-                            <script>
-                                document.write(new Date().getFullYear())
-                            </script>2022 © Hiric - Themesbrand
+                            2022 © NONICOMS - Inc
                         </p>
                     </div>
                     <div className="float-end pull-none ">
@@ -724,7 +591,7 @@ telecommunication infrastructure that gives our customers access to voice, (fixe
                 </div>
             </div>
         </div>
-    </div> */}
+    </div>
 
   
  
